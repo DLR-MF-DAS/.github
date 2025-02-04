@@ -1,4 +1,6 @@
-## Hi there 👋
+## MF DAS Open Source Projects 👋
+
+This organization is dedicated to the open-source efforts of the Data Science for Earth Observation Department of the German Aerospace Center (DLR).
 
 <!--
 
